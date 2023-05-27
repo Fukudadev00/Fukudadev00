@@ -1,4 +1,27 @@
 ### Hi there 👋
+As a senior Full Stack developer, I bring a wealth of experience and expertise to the table.
+With a strong background in Front-end, Back-end and Blockchain development, I have a deep understanding of how to build robust, scalable web and mobile applications that can handle complex workflows and data processing.
+
+I'm highly skilled in React,Next.js, JavaScript, MUI, Typescript, Tailwind CSS, Angular, Python, Shopify, Gatsby.js, Selenium, Node.js, Nest.js, PHP, Laravel, Django, Express, Web3.js, Ethers.js, Hardhat, Truffle, Solidity and Rust programming languages.
+
+✔ WebDevelopment
+- Front end technologies: React.js/Redux, Next.js, Nuxt.js, MUI, Vue.js, Typescript, Angular, Wordpress, Shopify, Gatsby.js, SASS, HTML, CSS/CSS3, Tailwind CSS, Bootstrap, Python, Selenium, Responsive sites, etc. 
+- Back end technologies: Node.js, Express, Ruby on Rails, Nest.js, Django, Laravel,PHP
+- Database : MongoDB, MySQL, PostgreSQL, Firebase, etc.
+- API Development : JSON / Restful API / XML / SOAP / GraphQL
+- Hosting: AWS, Google Cloud, Heroku, Digital Ocean, Azure
+- Version Control: SVN, Git, Github, etc
+- Project & Task Management: Trello, JIRA, Asana, etc
+
+✔Blockchain technologies
+★ network : Ethereum, BSC, Polygon, Arbitrum, zkSync era, XRP, Algorand, Polkadot, Near
+★ language : Solidity/Rust + web3.js/ethers.js, Golang, C++, Java, Python, Hardhat, truffle, remix
+
+In my work, I prioritize a collaborative, iterative approach, always seeking feedback and looking for ways to improve my code and my process. Whether I'm working with a team or taking on solo projects, I strive to deliver high-quality results that exceed expectations and drive real business value.
+
+I am ready to do all the best for you and looking forward to working with you.
+Best Regards.
+
 ### Frontend
 * React
 * Redux
