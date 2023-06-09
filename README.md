@@ -182,19 +182,27 @@ Best Regards.
 
 <br />
 
+> GitHub Profile Status
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=fukudadev00&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fukudadev00&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+</p>
+
+<br />
+
 > GitHub Activity Graph
-<!-- https://github.com/senior-dev-1019/github-readme-activity-graph -->
-<a href="https://github.com/senior-dev-1019/senior-dev-1019"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=senior-dev-1019&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<!-- https://github.com/fukudadev00/github-readme-activity-graph -->
+<a href="https://github.com/fukudadev00/fukudadev00"><img alt="Fukuda Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=fukudadev00&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
 
 <p align="right">
-  <a href="https://github.com/senior-dev-1019?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/senior-dev-1019"/></a>
-  <a href="https://github.com/senior-dev-1019?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/senior-dev-1019?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/senior-dev-1019">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=senior-dev-1019&style=for-the-badge"/></a>
+  <a href="https://github.com/fukudadev00?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/fukudadev00"/></a>
+  <a href="https://github.com/fukudadev00?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fukudadev00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/fukudadev00">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=fukudadev00&style=for-the-badge"/></a>
 </p>
 
 <br />
@@ -202,11 +210,11 @@ Best Regards.
 > GitHub Visitors Count
 
 <p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/{senior-dev-1019}/count.svg" /></p> 
+  <img align="center" src="https://profile-counter.glitch.me/{fukudadev00}/count.svg" /></p> 
 </div>
 
 <p align="center">
-    <img alt="snake animation" title="Snake Animation" src="https://github.com/senior-dev-1019/senior-dev-1019/blob/main/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="snake animation" title="Snake Animation" src="https://github.com/fukudadev00/fukudadev00/blob/main/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <p align="center">
