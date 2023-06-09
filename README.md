@@ -164,13 +164,13 @@ Best Regards.
 <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-<h2 align="left" id="macropower-tech">Github Metrics</h2>
+<!-- <h2 align="left" id="macropower-tech">Github Metrics</h2>
 
 <br />
 
 <p align="center">
     <img alt="metrics" title="Github Metrics" src="https://github.com/senior-dev-1019/senior-dev-1019/blob/main/github-metrics.svg" width="100%" />
-</p>
+</p> -->
 
 <h2 align="left" id="macropower-tech">Github Status</h2>
 
